@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "omarchy-nbl-scores",
+  "name": "NBL Scores & Fixtures",
+  "version": "1.1.0",
+  "description": "Australian NBL live scores, upcoming schedule, and standings powered by ESPN",
+  "author": "Nick Stone",
+  "license": "MIT",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "NBL Match Center",
+    "description": "Australian NBL scores, schedule, and standings",
+    "category": "Sports",
+    "allowMultiple": false
+  }
+}
