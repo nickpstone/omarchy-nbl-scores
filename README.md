@@ -53,3 +53,8 @@ In `~/.config/omarchy/shell.json`:
   }
 }
 ```
+
+## License
+
+[MIT](LICENSE) © 2026 Nick Stone
+
